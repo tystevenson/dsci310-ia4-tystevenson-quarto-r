@@ -11,6 +11,8 @@ format:
     toc-depth: 2
 execute:
   echo: false
+  warning: false
+  message: false
 editor: source
 ---
 
