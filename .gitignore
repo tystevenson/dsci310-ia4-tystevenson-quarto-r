@@ -3,3 +3,11 @@
 .RData
 .Ruserdata
 **.DS_Store
+.venv/
+__pycache__/
+*.log
+*.aux
+*.out
+*.toc
+*.tex
+reports/qmd_example_files/
